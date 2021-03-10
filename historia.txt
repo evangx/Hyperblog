@@ -1,7 +1,3 @@
 Este es el primer archivo de mi repositorio
 
-Este es un cambio :)
-
-Este es un tercer cambio para otro commit.
-
-Un cuarto cambio y agregado html
+proximamente se realizaran mas cambios
