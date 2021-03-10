@@ -10,3 +10,4 @@ git reset --soft head~1 revierte el ultimo commit pero mantiene los cambios
 git reset --hard head~1 Elimina el ultimo commit sin conservar los cambios
 git rm --soft deja de trackear un archivo y lo quita del repositorio
 git rm --force lo mismo que soft pero ademas lo elimina del disco duro
+git reset head elimina los archivos del estado staged, no los modifica
