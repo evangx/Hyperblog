@@ -16,5 +16,6 @@ git tag -a v0.1 -m "Primer resultado" 3aaacd9 Crea el tag V.01 con un mensaje ""
 git tag Muestra las tags existentes
 git show-ref --tags muestra que tag esta asociado con que commit
 git tag -d sle Elimina el tag con nombre sle
-
+git push origin :refs/tags/sle Elimina el tag sle en el repositorio remoto
+git show-branch --all Muestra informacion de las ramas existentes
 
